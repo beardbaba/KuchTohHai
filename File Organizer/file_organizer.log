@@ -1,0 +1,345 @@
+2025-03-12 18:19:16,775 [INFO] File organizer started
+2025-03-12 18:19:16,777 [DEBUG] Verbose mode enabled
+2025-03-12 18:19:16,779 [INFO] Starting organization of: C:\Users\Virendra Pratap\Downloads
+2025-03-12 18:19:16,827 [INFO] Creating directory: C:\Users\Virendra Pratap\Downloads\Images
+2025-03-12 18:19:16,832 [DEBUG] Moved: 09-Laxmi-Chai-Wala-03.jpg -> Images
+2025-03-12 18:19:16,835 [INFO] Creating directory: C:\Users\Virendra Pratap\Downloads\Documents
+2025-03-12 18:19:16,838 [DEBUG] Moved: 1685352521341sMKdyeRf2XUZVf1d.pdf -> Documents
+2025-03-12 18:19:16,841 [DEBUG] Moved: 20231203_020551.jpg -> Images
+2025-03-12 18:19:16,845 [DEBUG] Moved: 20240815_112659.jpg -> Images
+2025-03-12 18:19:16,847 [INFO] Creating directory: C:\Users\Virendra Pratap\Downloads\Videos
+2025-03-12 18:19:16,858 [DEBUG] Moved: 2024_0423_154509_010.mp4 -> Videos
+2025-03-12 18:19:16,864 [DEBUG] Moved: 210301005 - Akshay Manchanda.pdf -> Documents
+2025-03-12 18:19:16,868 [DEBUG] Moved: 3463135-Assignment_1.pdf -> Documents
+2025-03-12 18:19:16,874 [DEBUG] Moved: 3476336-Notes_-_Day_5_(18_Oct_2024)_-_A5.pdf -> Documents
+2025-03-12 18:19:16,878 [DEBUG] Moved: 3494475-Function_and_Lists_-_Assignment_1.pdf -> Documents
+2025-03-12 18:19:16,879 [DEBUG] Moved: 3539520-Assignment_2.pdf -> Documents
+2025-03-12 18:19:16,883 [DEBUG] Moved: 3539523-Assignment_3_-_List_Hard.pdf -> Documents
+2025-03-12 18:19:16,886 [DEBUG] Moved: 3551409-List_Slicing_and_Comprehension.pdf -> Documents
+2025-03-12 18:19:16,892 [DEBUG] Moved: 3BCBD119-FB68-459E-8FD3-215B3BACD823.jpeg -> Images
+2025-03-12 18:19:16,894 [DEBUG] Moved: 5.-6.jpg -> Images
+2025-03-12 18:19:16,899 [DEBUG] Moved: 64c7c201a7f4a5e05072cbe1_A3-Business Model Canvas-2023-p-1080.png -> Images
+2025-03-12 18:19:16,903 [DEBUG] Moved: 669a1370-29a0-41bc-9a5e-02830a6401b9.jpg -> Images
+2025-03-12 18:19:16,907 [DEBUG] Moved: 694DADC4AEDFE6BABAFFA3298B890391_video_dashinit.mp4 -> Videos
+2025-03-12 18:19:16,909 [DEBUG] Moved: 6Time-cost trade-off.pptx -> Documents
+2025-03-12 18:19:16,911 [INFO] Creating directory: C:\Users\Virendra Pratap\Downloads\Archives
+2025-03-12 18:19:16,915 [DEBUG] Moved: a5-batch-python-dsa-main.zip -> Archives
+2025-03-12 18:19:16,919 [DEBUG] Moved: Aadhar Final.pdf -> Documents
+2025-03-12 18:19:16,922 [DEBUG] Moved: Aadhar Final_pages-to-jpg-0001.jpg -> Images
+2025-03-12 18:19:16,927 [DEBUG] Moved: abhishek-upadhyay-vVurjLoVUUA-unsplash.jpg -> Images
+2025-03-12 18:19:16,931 [DEBUG] Moved: Additional+Course+Links,+020524.docx -> Documents
+2025-03-12 18:19:16,934 [DEBUG] Moved: Additional+Course+Links,+020524.pdf -> Documents
+2025-03-12 18:19:16,936 [DEBUG] Moved: adesh-bankar-c1zlTLWpZUw-unsplash.jpg -> Images
+2025-03-12 18:19:16,940 [DEBUG] Moved: aditya-prakash-kFhQKIIAKTE-unsplash.jpg -> Images
+2025-03-12 18:19:16,944 [DEBUG] Moved: aditya-raj-log4Yf1vy4E-unsplash.jpg -> Images
+2025-03-12 18:19:16,946 [DEBUG] Moved: AdventureWorks+Raw+Data.zip -> Archives
+2025-03-12 18:19:16,950 [DEBUG] Moved: aimanness-harun-_rxWnmOZ4YA-unsplash.jpg -> Images
+2025-03-12 18:19:16,953 [DEBUG] Moved: AI_Engineer_Roadmap.pdf -> Documents
+2025-03-12 18:19:16,957 [DEBUG] Moved: alexis-rodriguez-6GL3-0R_1Do-unsplash.jpg -> Images
+2025-03-12 18:19:16,959 [DEBUG] Moved: aman-chaturvedi--4Nabp0T22Q-unsplash.jpg -> Images
+2025-03-12 18:19:16,964 [DEBUG] Moved: amit-gaur-EL_coJKPz3Y-unsplash.jpg -> Images
+2025-03-12 18:19:16,967 [DEBUG] Moved: amritanshu-prajwal-BfdlyDbunrU-unsplash.jpg -> Images
+2025-03-12 18:19:16,972 [DEBUG] Moved: an-introduction-to-statistical-learning-with-applications-in-python-springer-texts-in-statistics-1st-ed-2023-3031387465-9783031387463_compress.pdf -> Documents
+2025-03-12 18:19:16,974 [INFO] Creating directory: C:\Users\Virendra Pratap\Downloads\Programs
+2025-03-12 18:19:16,976 [DEBUG] Moved: Anaconda3-2023.09-0-Windows-x86_64.exe -> Programs
+2025-03-12 18:19:16,981 [DEBUG] Moved: archive.zip -> Archives
+2025-03-12 18:19:16,985 [INFO] Creating directory: C:\Users\Virendra Pratap\Downloads\Others
+2025-03-12 18:19:16,990 [DEBUG] Moved: archlinux-2023.09.01-x86_64.iso -> Others
+2025-03-12 18:19:17,011 [DEBUG] Moved: Arrioch-Birdie-Adium-Adium-Bird-Sleep.ico -> Others
+2025-03-12 18:19:17,015 [DEBUG] Moved: arto-suraj-wC7a-C3zIlE-unsplash.jpg -> Images
+2025-03-12 18:19:17,017 [DEBUG] Moved: ashish-singh-iCjRWu3RNkw-unsplash.jpg -> Images
+2025-03-12 18:19:17,021 [DEBUG] Moved: austin-curtis-tx9_31tWSJ4-unsplash.jpg -> Images
+2025-03-12 18:19:17,025 [DEBUG] Moved: awanish-kumar-2FeleiOUQqM-unsplash.jpg -> Images
+2025-03-12 18:19:17,028 [DEBUG] Moved: Axis_benefits_for_Infosys.pdf -> Documents
+2025-03-12 18:19:17,032 [DEBUG] Moved: Banaras and its delicacies .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #incredibleindia #exploringindia #uttarpradesh #narend-1.jpg -> Images
+2025-03-12 18:19:17,036 [DEBUG] Moved: Banaras and its delicacies .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #incredibleindia #exploringindia #uttarpradesh #narend.jpg -> Images
+2025-03-12 18:19:17,042 [DEBUG] Moved: Banaras Itinerary for 2 days. .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #travel #incredibleindia #traveling #exploringindia-1.jpg -> Images
+2025-03-12 18:19:17,047 [DEBUG] Moved: Banaras Itinerary for 2 days. .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #travel #incredibleindia #traveling #exploringindia-2.jpg -> Images
+2025-03-12 18:19:17,053 [DEBUG] Moved: Banaras Itinerary for 2 days. .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #travel #incredibleindia #traveling #exploringindia-3.jpg -> Images
+2025-03-12 18:19:17,059 [DEBUG] Moved: Banaras Itinerary for 2 days. .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #travel #incredibleindia #traveling #exploringindia.jpg -> Images
+2025-03-12 18:19:17,061 [DEBUG] Moved: Banaras will look like this in few days Dev Deepawali 27 November 2023 #devdeepawali #explore #explorepage #banaras #varanasi #kashi #diwali #streetofbanaras.jpg -> Images
+2025-03-12 18:19:17,065 [DEBUG] Moved: bence-boros-2WpkG7DzBRI-unsplash.jpg -> Images
+2025-03-12 18:19:17,069 [DEBUG] Moved: best-malaiyo-in-varanasi.jpg -> Images
+2025-03-12 18:19:17,075 [DEBUG] Moved: bhaiya Flight.pdf -> Documents
+2025-03-12 18:19:17,078 [DEBUG] Moved: Big_Shop_Sales.xlsx -> Documents
+2025-03-12 18:19:17,080 [DEBUG] Moved: boris-baldinger-VEkIsvDviSs-unsplash.jpg -> Images
+2025-03-12 18:19:17,083 [DEBUG] Moved: BraveBrowserSetup-BRV010.exe -> Programs
+2025-03-12 18:19:17,086 [DEBUG] Moved: brian-scott-9mlsS7ViHkE-unsplash.jpg -> Images
+2025-03-12 18:19:17,089 [DEBUG] Moved: CampusX DSMP 2.0 Syllabus-1.pdf -> Documents
+2025-03-12 18:19:17,091 [DEBUG] Moved: CampusX DSMP 2.0 Syllabus.pdf -> Documents
+2025-03-12 18:19:17,094 [DEBUG] Moved: Carte_Hiking_2024.pdf -> Documents
+2025-03-12 18:19:17,099 [DEBUG] Moved: cast-weekly-study-schedule-excel-template(1).xlsx -> Documents
+2025-03-12 18:19:17,101 [DEBUG] Moved: cast-weekly-study-schedule-excel-template.xlsx -> Documents
+2025-03-12 18:19:17,105 [DEBUG] Moved: CGRAI00218350000000146_2022.pdf -> Documents
+2025-03-12 18:19:17,109 [DEBUG] Moved: chandramouli-bakulapally-98dYoKPJeaw-unsplash.jpg -> Images
+2025-03-12 18:19:17,113 [DEBUG] Moved: chandramouli-bakulapally-NNrUSHzEvPI-unsplash.jpg -> Images
+2025-03-12 18:19:17,117 [DEBUG] Moved: Class Group - Term VI.xlsx -> Documents
+2025-03-12 18:19:17,119 [DEBUG] Moved: cleartrip.pdf -> Documents
+2025-03-12 18:19:17,123 [DEBUG] Moved: CrystalDiskInfo9_5_0.zip -> Archives
+2025-03-12 18:19:17,127 [DEBUG] Moved: CrystalDiskInfo9_5_0Aoi.zip -> Archives
+2025-03-12 18:19:17,129 [DEBUG] Moved: CrystalDiskInfo9_5_0KureiKei.zip -> Archives
+2025-03-12 18:19:17,132 [DEBUG] Moved: cutlet jannat cutler corner.png -> Images
+2025-03-12 18:19:17,157 [DEBUG] Moved: D748E0454EE7A55CEC3EA00FF1A4AD84_video_dashinit.mp4 -> Videos
+2025-03-12 18:19:17,161 [DEBUG] Moved: data-analyst-roadmap-2024.zip -> Archives
+2025-03-12 18:19:17,163 [DEBUG] Moved: data-analyst-roadmap.pdf -> Documents
+2025-03-12 18:19:17,167 [DEBUG] Moved: david-rodrigo-Fr6zexbmjmc-unsplash.jpg -> Images
+2025-03-12 18:19:17,169 [DEBUG] Moved: Demand-response-business-model-canvas (1).png -> Images
+2025-03-12 18:19:17,173 [DEBUG] Moved: Demand-response-business-model-canvas.png -> Images
+2025-03-12 18:19:17,177 [DEBUG] Moved: denys-nevozhai-7nrsVjvALnA-unsplash.jpg -> Images
+2025-03-12 18:19:17,180 [DEBUG] Moved: Descriptive+Analytics+Practice+Problems.xlsx -> Documents
+2025-03-12 18:19:17,182 [DEBUG] Moved: Descriptive+Analytics+Worksheet.xlsx -> Documents
+2025-03-12 18:19:17,186 [DEBUG] Moved: DiscordSetup.exe -> Programs
+2025-03-12 18:19:17,188 [DEBUG] Moved: Divyank's Resume-1.pdf -> Documents
+2025-03-12 18:19:17,190 [DEBUG] Moved: Divyank's Resume-2.pdf -> Documents
+2025-03-12 18:19:17,195 [DEBUG] Moved: Divyank's Resume.docx -> Documents
+2025-03-12 18:19:17,199 [DEBUG] Moved: Divyank's Resume.pdf -> Documents
+2025-03-12 18:19:17,201 [DEBUG] Moved: Divyanks Resume-2_250205_150518.pdf -> Documents
+2025-03-12 18:19:17,203 [DEBUG] Moved: Divyank_final_test_Code_debug.pdf -> Documents
+2025-03-12 18:19:17,205 [DEBUG] Moved: DOC-20230313-WA0037..pdf -> Documents
+2025-03-12 18:19:17,210 [DEBUG] Moved: drive-download-20240709T124440Z-001.zip -> Archives
+2025-03-12 18:19:17,212 [DEBUG] Moved: drive-download-20240714T084613Z-001.zip -> Archives
+2025-03-12 18:19:17,216 [DEBUG] Moved: DSC_0180_20180410114100.jpg -> Images
+2025-03-12 18:19:17,218 [DEBUG] Moved: DS_2024_Roadmap.pdf -> Documents
+2025-03-12 18:19:17,221 [DEBUG] Moved: DV+Sales+Data.xlsx -> Documents
+2025-03-12 18:19:17,224 [DEBUG] Moved: EAadhaar_2084322436997320170725184648_1505202412563.pdf -> Documents
+2025-03-12 18:19:17,228 [DEBUG] Moved: EAadhaar_2084322436997320170725184648_15052024125813.pdf -> Documents
+2025-03-12 18:19:17,230 [DEBUG] Moved: electricity bill Jul'24.pdf -> Documents
+2025-03-12 18:19:17,233 [DEBUG] Moved: EmeraldInsight_citations_20240123094420.ris -> Others
+2025-03-12 18:19:17,236 [DEBUG] Moved: FB49DC9838DD7027EF6AE24459573C99_video_dashinit.mp4 -> Videos
+2025-03-12 18:19:17,239 [DEBUG] Moved: FC427C36B9926ABCD92A648DE5ECE797_video_dashinit.mp4 -> Videos
+2025-03-12 18:19:17,244 [DEBUG] Moved: Final Contest-1.pdf -> Documents
+2025-03-12 18:19:17,246 [DEBUG] Moved: Final Contest.pdf -> Documents
+2025-03-12 18:19:17,249 [DEBUG] Moved: FINAL_Exploring Critical Success Factors Influencing the Adoption of (Digital TwinIot) in the (E-CommerceFMCG) Industry.docx -> Documents
+2025-03-12 18:19:17,252 [DEBUG] Moved: Firefox Installer.exe -> Programs
+2025-03-12 18:19:17,254 [DEBUG] Moved: frank-holleman-fvmMDEvInLE-unsplash.jpg -> Images
+2025-03-12 18:19:17,259 [DEBUG] Moved: frank-holleman-vG6QTSM7BK8-unsplash.jpg -> Images
+2025-03-12 18:19:17,261 [DEBUG] Moved: Full Vaccination certificate Covaxin.pdf -> Documents
+2025-03-12 18:19:17,265 [DEBUG] Moved: Ganga Dwar of Shree Kashi Vishwanath Corridor .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #incredibleindia #exploringindia #u.jpg -> Images
+2025-03-12 18:19:17,271 [DEBUG] Moved: Ghats ablaze, fire whispers prayers, Ganges bathed in golden haze, eternity’s dance in Varanasi’s embrace..Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #.jpg -> Images
+2025-03-12 18:19:17,277 [DEBUG] Moved: Ghats of Banaras during flood .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #travel #incredibleindia #traveling #exploringindia-1.jpg -> Images
+2025-03-12 18:19:17,281 [DEBUG] Moved: Ghats of Banaras during flood .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #travel #incredibleindia #traveling #exploringindia-2.jpg -> Images
+2025-03-12 18:19:17,286 [DEBUG] Moved: Ghats of Banaras during flood .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #travel #incredibleindia #traveling #exploringindia-3.jpg -> Images
+2025-03-12 18:19:17,290 [DEBUG] Moved: Ghats of Banaras during flood .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #travel #incredibleindia #traveling #exploringindia-4.jpg -> Images
+2025-03-12 18:19:17,297 [DEBUG] Moved: Ghats of Banaras during flood .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #travel #incredibleindia #traveling #exploringindia-5.jpg -> Images
+2025-03-12 18:19:17,301 [DEBUG] Moved: Ghats of Banaras during flood .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #travel #incredibleindia #traveling #exploringindia-6.jpg -> Images
+2025-03-12 18:19:17,306 [DEBUG] Moved: Ghats of Banaras during flood .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #travel #incredibleindia #traveling #exploringindia-7.jpg -> Images
+2025-03-12 18:19:17,310 [DEBUG] Moved: Ghats of Banaras during flood .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #travel #incredibleindia #traveling #exploringindia-8.jpg -> Images
+2025-03-12 18:19:17,314 [DEBUG] Moved: Ghats of Banaras during flood .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #travel #incredibleindia #traveling #exploringindia-9.jpg -> Images
+2025-03-12 18:19:17,319 [DEBUG] Moved: Ghats of Banaras during flood .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #travel #incredibleindia #traveling #exploringindia.jpg -> Images
+2025-03-12 18:19:17,321 [DEBUG] Moved: Git-2.43.0-64-bit.exe -> Programs
+2025-03-12 18:19:17,325 [DEBUG] Moved: Git-2.47.0-64-bit.exe -> Programs
+2025-03-12 18:19:17,329 [DEBUG] Moved: GPT Strength & Weakness.docx -> Documents
+2025-03-12 18:19:17,332 [DEBUG] Moved: GrammarlyInstaller.ceqKlJ59D0a7dNOB6L4Q.exe -> Programs
+2025-03-12 18:19:17,335 [DEBUG] Moved: Grand_Vitara-Brochure.pdf -> Documents
+2025-03-12 18:19:17,338 [DEBUG] Moved: Guess the place!! .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #travel #incredibleindia #traveling #exploringindia #india #utt.jpg -> Images
+2025-03-12 18:19:17,345 [DEBUG] Moved: Har Har Mahadev .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #incredibleindia #exploringindia #uttarpradesh #narendramodi #pra.jpg -> Images
+2025-03-12 18:19:17,347 [DEBUG] Moved: hermann-wittekopf-cJDWt2wJfoA-unsplash.jpg -> Images
+2025-03-12 18:19:17,349 [DEBUG] Moved: HR_Analytics_Dataset_DS_1.xlsx -> Documents
+2025-03-12 18:19:17,353 [DEBUG] Moved: ICICI_Account_Opening_Process.pdf -> Documents
+2025-03-12 18:19:17,360 [DEBUG] Moved: ICICI_benefits_for_Infosys.pdf -> Documents
+2025-03-12 18:19:17,362 [DEBUG] Moved: icons8-off-64.ico -> Others
+2025-03-12 18:19:17,365 [DEBUG] Moved: icons8-off-64.png -> Images
+2025-03-12 18:19:17,369 [DEBUG] Moved: image003.png -> Images
+2025-03-12 18:19:17,374 [DEBUG] Moved: IMG-20171108-WA0004.jpg -> Images
+2025-03-12 18:19:17,376 [DEBUG] Moved: IMG_20170301_223712-e1489567887341-1.jpg -> Images
+2025-03-12 18:19:17,378 [DEBUG] Moved: IMG_4752.JPG -> Images
+2025-03-12 18:19:17,383 [DEBUG] Moved: IMG_6141.JPG -> Images
+2025-03-12 18:19:17,386 [DEBUG] Moved: IMG_6142.JPG -> Images
+2025-03-12 18:19:17,388 [DEBUG] Moved: Imp_Project.pdf -> Documents
+2025-03-12 18:19:17,392 [DEBUG] Moved: INSTRUCTIONS_TO_FILL_FORM.pdf -> Documents
+2025-03-12 18:19:17,394 [DEBUG] Moved: Interview preps_Sourav.docx -> Documents
+2025-03-12 18:19:17,398 [DEBUG] Moved: ishan-seefromthesky-GSZQ_eupukE-unsplash.jpg -> Images
+2025-03-12 18:19:17,400 [DEBUG] Moved: ishan-seefromthesky-WVziwa_DDwI-unsplash.jpg -> Images
+2025-03-12 18:19:17,404 [DEBUG] Moved: istockphoto-1359950089-640x640.jpg -> Images
+2025-03-12 18:19:17,408 [DEBUG] Moved: items.csv -> Documents
+2025-03-12 18:19:17,411 [DEBUG] Moved: jannes-jacobs-jxQeG1gPEl0-unsplash.jpg -> Images
+2025-03-12 18:19:17,416 [DEBUG] Moved: jannes-jacobs-NfsB3jPVlcM-unsplash.jpg -> Images
+2025-03-12 18:19:17,418 [DEBUG] Moved: JD - PM.pdf -> Documents
+2025-03-12 18:19:17,423 [DEBUG] Moved: jemimah-gray-PC2fsRbtlrE-unsplash.jpg -> Images
+2025-03-12 18:19:17,425 [DEBUG] Moved: jemimah-gray-SwR_XXkxtug-unsplash.jpg -> Images
+2025-03-12 18:19:17,429 [DEBUG] Moved: joe-yates-Cc4sToR2Oc0-unsplash.jpg -> Images
+2025-03-12 18:19:17,433 [DEBUG] Moved: Kaal-Bhairav-Varanasi.webp -> Others
+2025-03-12 18:19:17,437 [DEBUG] Moved: KachoriSabzi_20181025153533.jpg -> Images
+2025-03-12 18:19:17,440 [DEBUG] Moved: Kardameshwar Temple 2.jpg -> Images
+2025-03-12 18:19:17,444 [DEBUG] Moved: Kashi .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #incredibleindia #exploringindia #uttarpradesh #narendramodi #prayagraj #lu.jpg -> Images
+2025-03-12 18:19:17,449 [DEBUG] Moved: kishor-kumar-c-k-H5Y9NKoLPoI-unsplash.jpg -> Images
+2025-03-12 18:19:17,451 [DEBUG] Moved: lakshya-thakur-YZK1RJyrjg0-unsplash.jpg -> Images
+2025-03-12 18:19:17,455 [DEBUG] Moved: Launchpad_ADDRESS_1007467653.pdf -> Documents
+2025-03-12 18:19:17,458 [DEBUG] Moved: Launchpad_BVF_1007467653.pdf -> Documents
+2025-03-12 18:19:17,464 [DEBUG] Moved: Launchpad_GDC_1007467653 (1).pdf -> Documents
+2025-03-12 18:19:17,467 [DEBUG] Moved: Launchpad_GDC_1007467653 (2).pdf -> Documents
+2025-03-12 18:19:17,469 [DEBUG] Moved: Launchpad_GDC_1007467653 (3).pdf -> Documents
+2025-03-12 18:19:17,473 [DEBUG] Moved: Launchpad_GDC_1007467653.pdf -> Documents
+2025-03-12 18:19:17,475 [DEBUG] Moved: Launchpad_PERSONALDATA_1007467653.pdf -> Documents
+2025-03-12 18:19:17,480 [DEBUG] Moved: Launchpad_STRFRM_1007467653 (1).pdf -> Documents
+2025-03-12 18:19:17,484 [DEBUG] Moved: Launchpad_STRFRM_1007467653.pdf -> Documents
+2025-03-12 18:19:17,488 [DEBUG] Moved: lewis-j-goetz-0THCqm1Gns8-unsplash.jpg -> Images
+2025-03-12 18:19:17,491 [DEBUG] Moved: Library Project Pitch.docx -> Documents
+2025-03-12 18:19:17,494 [DEBUG] Moved: Lifecycle of an AIML Project.pdf -> Documents
+2025-03-12 18:19:17,497 [DEBUG] Moved: Marketing Mix of Pure it.xlsx -> Documents
+2025-03-12 18:19:17,501 [DEBUG] Moved: martijn-vonk-_ZQE8Ep-ceY-unsplash.jpg -> Images
+2025-03-12 18:19:17,503 [DEBUG] Moved: meme.jpg -> Images
+2025-03-12 18:19:17,507 [DEBUG] Moved: ms-python.python-2024.16.1@win32-x64.vsix -> Others
+2025-03-12 18:19:17,510 [DEBUG] Moved: Naukri_DivyankSingh[3y_6m].pdf -> Documents
+2025-03-12 18:19:17,512 [DEBUG] Moved: nayan-bhalotia-gtfuNoQgdXE-unsplash.jpg -> Images
+2025-03-12 18:19:17,516 [DEBUG] Moved: nayan-bhalotia-Hg7gQOKBNZs-unsplash.jpg -> Images
+2025-03-12 18:19:17,518 [DEBUG] Moved: netcut.exe -> Programs
+2025-03-12 18:19:17,522 [DEBUG] Moved: Nexon-iCNG.pdf -> Documents
+2025-03-12 18:19:17,526 [DEBUG] Moved: nfsaddons.com_nfsmw_megatrainer_be13.zip -> Archives
+2025-03-12 18:19:17,530 [DEBUG] Moved: nfscarbonwidescreenfix6012022.zip -> Archives
+2025-03-12 18:19:17,532 [DEBUG] Moved: nfsmostwantedwidescreenfix29072023.zip -> Archives
+2025-03-12 18:19:17,535 [DEBUG] Moved: nicolas-j-leclercq-FyOvf63ZRpk-unsplash.jpg -> Images
+2025-03-12 18:19:17,536 [DEBUG] Moved: No Dues and Caution Money Refund Form_PGDM Executive.pdf -> Documents
+2025-03-12 18:19:17,542 [DEBUG] Moved: Nomination Forms_1352005.zip -> Archives
+2025-03-12 18:19:17,543 [DEBUG] Moved: NSK-DEL.pdf -> Documents
+2025-03-12 18:19:17,563 [DEBUG] Moved: Offer LetterApproved On25 May 2024.pdf -> Documents
+2025-03-12 18:19:17,568 [DEBUG] Moved: offlineaadhaar20240515072919885.zip -> Archives
+2025-03-12 18:19:17,570 [DEBUG] Moved: oled-4k-batman-in-corner-898zetwi3zru7ca4.jpg -> Images
+2025-03-12 18:19:17,575 [DEBUG] Moved: OnePageResume_Su.pdf -> Documents
+2025-03-12 18:19:17,577 [DEBUG] Moved: papa DL.pdf -> Documents
+2025-03-12 18:19:17,581 [DEBUG] Moved: parvi-bansal-5S5Yf4uB-jQ-unsplash.jpg -> Images
+2025-03-12 18:19:17,583 [DEBUG] Moved: passport divyank.pdf -> Documents
+2025-03-12 18:19:17,586 [DEBUG] Moved: pdfcoffee.com_the-statquest-illustrated-guide-to-machine-learning-josh-starmer-pdf-free.pdf -> Documents
+2025-03-12 18:19:17,587 [DEBUG] Moved: pexels-a-p-363022294-14676831.jpg -> Images
+2025-03-12 18:19:17,591 [DEBUG] Moved: pexels-andrej-zeman-1340376-5589765.jpg -> Images
+2025-03-12 18:19:17,595 [DEBUG] Moved: pexels-arman-2725253.jpg -> Images
+2025-03-12 18:19:17,597 [DEBUG] Moved: pexels-cameramanbhaiya-582256769-22485228.jpg -> Images
+2025-03-12 18:19:17,599 [DEBUG] Moved: pexels-chalta-phirta-307182428-20518303(1).jpg -> Images
+2025-03-12 18:19:17,603 [DEBUG] Moved: pexels-chalta-phirta-307182428-20518303.jpg -> Images
+2025-03-12 18:19:17,607 [DEBUG] Moved: pexels-clickerpandey-2861280.jpg -> Images
+2025-03-12 18:19:17,609 [DEBUG] Moved: pexels-eberhard-grossgasteiger-1004665.jpg -> Images
+2025-03-12 18:19:17,611 [DEBUG] Moved: pexels-framesbypc-18780721.jpg -> Images
+2025-03-12 18:19:17,615 [DEBUG] Moved: pexels-himanshu-singh-148036179-19331097.jpg -> Images
+2025-03-12 18:19:17,617 [DEBUG] Moved: pexels-ichandansuman-12755778.jpg -> Images
+2025-03-12 18:19:17,621 [DEBUG] Moved: pexels-ichandansuman-12771960.jpg -> Images
+2025-03-12 18:19:17,624 [DEBUG] Moved: pexels-joyston-judah-933054.jpg -> Images
+2025-03-12 18:19:17,626 [DEBUG] Moved: pexels-matt-hardy-3560168.jpg -> Images
+2025-03-12 18:19:17,630 [DEBUG] Moved: pexels-narin-chauhan-295714705-16542959.jpg -> Images
+2025-03-12 18:19:17,632 [DEBUG] Moved: pexels-nitindeshwal009-21047821.jpg -> Images
+2025-03-12 18:19:17,634 [DEBUG] Moved: pexels-nitindeshwal009-21047822.jpg -> Images
+2025-03-12 18:19:17,636 [DEBUG] Moved: pexels-nitindeshwal009-21047823.jpg -> Images
+2025-03-12 18:19:17,642 [DEBUG] Moved: pexels-patricia-luquet-293443066-17869813.jpg -> Images
+2025-03-12 18:19:17,644 [DEBUG] Moved: pexels-pratim-chattopadhyay-162807022-10840150.jpg -> Images
+2025-03-12 18:19:17,646 [DEBUG] Moved: pexels-saigoutham-16062345.jpg -> Images
+2025-03-12 18:19:17,649 [DEBUG] Moved: pexels-shootcasechronicles-7919685.jpg -> Images
+2025-03-12 18:19:17,651 [DEBUG] Moved: pexels-stein-egil-liland-1933320.jpg -> Images
+2025-03-12 18:19:17,655 [DEBUG] Moved: pexels-stijn-dijkstra-1306815-16745034.jpg -> Images
+2025-03-12 18:19:17,657 [DEBUG] Moved: pexels-stijn-dijkstra-1306815-16747100.jpg -> Images
+2025-03-12 18:19:17,659 [DEBUG] Moved: pexels-subhajit-paul-213168853-12387057.jpg -> Images
+2025-03-12 18:19:17,662 [DEBUG] Moved: pexels-yaroslav-shuraev-1834403.jpg -> Images
+2025-03-12 18:19:17,666 [DEBUG] Moved: photo.docx -> Documents
+2025-03-12 18:19:17,668 [DEBUG] Moved: Poonam Gyanani 22 ExP-028 Project Synopsis.docx -> Documents
+2025-03-12 18:19:17,673 [DEBUG] Moved: Power+BI+for+Business+Intelligence.pdf -> Documents
+2025-03-12 18:19:17,677 [DEBUG] Moved: pranav-kumar-jain--A-4wZ2EEkU-unsplash.jpg -> Images
+2025-03-12 18:19:17,680 [DEBUG] Moved: Predictive+Analytics+Practice+Problems.xlsx -> Documents
+2025-03-12 18:19:17,680 [DEBUG] Moved: Predictive+Analytics+Worksheet.xlsx -> Documents
+2025-03-12 18:19:17,684 [DEBUG] Moved: Prescriptive+Analytics+Practice+Problems.xlsx -> Documents
+2025-03-12 18:19:17,687 [DEBUG] Moved: Prescriptive+Analytics+Worksheet+#1.xlsx -> Documents
+2025-03-12 18:19:17,689 [DEBUG] Moved: Prescriptive+Analytics+Worksheet+#2.xlsx -> Documents
+2025-03-12 18:19:17,693 [DEBUG] Moved: Print Edit Trial.jpg -> Images
+2025-03-12 18:19:17,696 [DEBUG] Moved: Profile Summary_deep_seek.docx -> Documents
+2025-03-12 18:19:17,699 [DEBUG] Moved: Project Report Format.docx -> Documents
+2025-03-12 18:19:17,702 [DEBUG] Moved: punch-ev-brochure.pdf -> Documents
+2025-03-12 18:19:17,708 [DEBUG] Moved: Python for DA by Pandas Creator.pdf -> Documents
+2025-03-12 18:19:17,711 [DEBUG] Moved: question-mark-clipart-3.png -> Images
+2025-03-12 18:19:17,715 [DEBUG] Moved: Rahul Mehta_Amazon last mile SPJIMR.pdf -> Documents
+2025-03-12 18:19:17,721 [DEBUG] Moved: raju-datla-16g1zLZ8TDg-unsplash.jpg -> Images
+2025-03-12 18:19:17,725 [DEBUG] Moved: ravi-sharma-2QUONIo9xuw-unsplash.jpg -> Images
+2025-03-12 18:19:17,730 [DEBUG] Moved: ravi-sharma-C3epn0wdQo4-unsplash.jpg -> Images
+2025-03-12 18:19:17,734 [DEBUG] Moved: ravi-sharma-HP1blcN_Lf0-unsplash.jpg -> Images
+2025-03-12 18:19:17,736 [DEBUG] Moved: ravi-sharma-S8AgpSOV1-s-unsplash.jpg -> Images
+2025-03-12 18:19:17,741 [DEBUG] Moved: result_set.csv -> Documents
+2025-03-12 18:19:17,743 [DEBUG] Moved: Resume Points 15.2.2025.docx -> Documents
+2025-03-12 18:19:17,749 [DEBUG] Moved: Resume-1.pdf -> Documents
+2025-03-12 18:19:17,751 [DEBUG] Moved: Resume.pdf -> Documents
+2025-03-12 18:19:17,754 [DEBUG] Moved: Resume_PrepPoints.docx -> Documents
+2025-03-12 18:19:17,758 [DEBUG] Moved: ricky-8uqtB16eRSU-unsplash.jpg -> Images
+2025-03-12 18:19:17,763 [DEBUG] Moved: RPS070067631.zip -> Archives
+2025-03-12 18:19:17,765 [DEBUG] Moved: rufus-4.2.exe -> Programs
+2025-03-12 18:19:17,767 [DEBUG] Moved: rufus-4.2_arm64.exe -> Programs
+2025-03-12 18:19:17,771 [DEBUG] Moved: Sample_Nomination_forms.zip -> Archives
+2025-03-12 18:19:17,773 [DEBUG] Moved: samyak-jain-2q4dRv1Z5Cw-unsplash.jpg -> Images
+2025-03-12 18:19:17,776 [DEBUG] Moved: sarvesh-phansalkar-L0_4l-SeZgA-unsplash.jpg -> Images
+2025-03-12 18:19:17,780 [DEBUG] Moved: sarvesh-phansalkar-q9JEmfclqlM-unsplash.jpg -> Images
+2025-03-12 18:19:17,782 [DEBUG] Moved: Scenario Based Questions.pdf -> Documents
+2025-03-12 18:19:17,784 [DEBUG] Moved: SCM Final.pdf -> Documents
+2025-03-12 18:19:17,788 [DEBUG] Moved: ScreenRec_webinstall_all.exe -> Programs
+2025-03-12 18:19:17,793 [DEBUG] Moved: SeaToolsWindowsInstaller(1).exe -> Programs
+2025-03-12 18:19:17,795 [DEBUG] Moved: SeaToolsWindowsInstaller.exe -> Programs
+2025-03-12 18:19:17,799 [DEBUG] Moved: Self Declaration for Pending Documents.doc -> Documents
+2025-03-12 18:19:17,802 [DEBUG] Moved: SeniorManager_FCOperations(Campus).pdf -> Documents
+2025-03-12 18:19:17,804 [DEBUG] Moved: Shivam's Resume.pdf -> Documents
+2025-03-12 18:19:17,807 [DEBUG] Moved: shivanshu-7.jpg -> Images
+2025-03-12 18:19:17,811 [DEBUG] Moved: Shree Satynarayan Tulsi Manas mandir VARANASI......#photography #photoshoot #mandir #varanasi #tulsimanasmandir #fashion #fpy #explorepage #photooftheday #etc(1).jpg -> Images
+2025-03-12 18:19:17,815 [DEBUG] Moved: shreyas-srivastava-CUwTntWeHv0-unsplash.jpg -> Images
+2025-03-12 18:19:17,817 [DEBUG] Moved: Shwetank Singh_Biodata(by createmybiodata.com).pdf -> Documents
+2025-03-12 18:19:17,819 [DEBUG] Moved: Shwetank Singh_Biodata.pdf -> Documents
+2025-03-12 18:19:17,821 [DEBUG] Moved: Shwetank Singh_CV_V1.0.docx -> Documents
+2025-03-12 18:19:17,826 [DEBUG] Moved: Shwetank_IMG.pdf -> Documents
+2025-03-12 18:19:17,830 [DEBUG] Moved: sneha-sivarajan-2QQ-UeTsT8k-unsplash.jpg -> Images
+2025-03-12 18:19:17,832 [DEBUG] Moved: sneha-sivarajan-cmowaqOjrzg-unsplash.jpg -> Images
+2025-03-12 18:19:17,837 [DEBUG] Moved: Sourav_Kumar_Project_Synopsis.docx -> Documents
+2025-03-12 18:19:17,841 [DEBUG] Moved: srivatsan-balaji-I8488DJJ-cA-unsplash.jpg -> Images
+2025-03-12 18:19:17,845 [DEBUG] Moved: srivatsan-balaji-YpX8_xuV1zE-unsplash.jpg -> Images
+2025-03-12 18:19:17,847 [DEBUG] Moved: Steps guidelines for LMS login_FLP.pdf -> Documents
+2025-03-12 18:19:17,851 [DEBUG] Moved: Steps_to_open_Axis_Bank_account.pdf -> Documents
+2025-03-12 18:19:17,855 [DEBUG] Moved: Student Job Posting Sheet.xlsx -> Documents
+2025-03-12 18:19:17,860 [DEBUG] Moved: sudhakar-chandra-o1MMxJ066XQ-unsplash.jpg -> Images
+2025-03-12 18:19:17,862 [DEBUG] Moved: SuperDisplay_Installer_v1.1.10.exe -> Programs
+2025-03-12 18:19:17,865 [DEBUG] Moved: tanusree-mitra-Bi1TLGbMFmI-unsplash.jpg -> Images
+2025-03-12 18:19:17,901 [DEBUG] Moved: Thesis.pdf -> Documents
+2025-03-12 18:19:17,905 [DEBUG] Moved: Things to do in Banaras .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi#banaras #varanasidiaries #travel #photography#incredibleindia #traveling#exploringindia #tra-1.jpg -> Images
+2025-03-12 18:19:17,911 [DEBUG] Moved: Things to do in Banaras .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi#banaras #varanasidiaries #travel #photography#incredibleindia #traveling#exploringindia #tra-2.jpg -> Images
+2025-03-12 18:19:17,915 [DEBUG] Moved: Things to do in Banaras .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi#banaras #varanasidiaries #travel #photography#incredibleindia #traveling#exploringindia #tra-3.jpg -> Images
+2025-03-12 18:19:17,919 [DEBUG] Moved: Things to do in Banaras .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi#banaras #varanasidiaries #travel #photography#incredibleindia #traveling#exploringindia #tra-4.jpg -> Images
+2025-03-12 18:19:17,923 [DEBUG] Moved: Things to do in Banaras .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi#banaras #varanasidiaries #travel #photography#incredibleindia #traveling#exploringindia #tra-5.jpg -> Images
+2025-03-12 18:19:17,929 [DEBUG] Moved: Things to do in Banaras .Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi#banaras #varanasidiaries #travel #photography#incredibleindia #traveling#exploringindia #tra.jpg -> Images
+2025-03-12 18:19:17,932 [DEBUG] Moved: This Dev Deepawali witness the greatness of the festival in the form of Light and Laser show..Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiari-3.jpg -> Images
+2025-03-12 18:19:17,939 [DEBUG] Moved: This Dev Deepawali witness the greatness of the festival in the form of Light and Laser show..Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiari-4.jpg -> Images
+2025-03-12 18:19:17,944 [DEBUG] Moved: This Dev Deepawali witness the greatness of the festival in the form of Light and Laser show..Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiari-5.jpg -> Images
+2025-03-12 18:19:17,949 [DEBUG] Moved: tim-gouw-VvQSzMJ_h0U-unsplash.jpg -> Images
+2025-03-12 18:19:17,951 [DEBUG] Moved: tsetup-x64.4.13.1.exe -> Programs
+2025-03-12 18:19:17,953 [DEBUG] Moved: tx_deathrow_full.csv -> Documents
+2025-03-12 18:19:17,957 [DEBUG] Moved: Untitled form.csv -> Documents
+2025-03-12 18:19:17,959 [DEBUG] Moved: VC_redist.x64.exe -> Programs
+2025-03-12 18:19:17,963 [INFO] Creating directory: C:\Users\Virendra Pratap\Downloads\Code
+2025-03-12 18:19:17,964 [DEBUG] Moved: Vector and Matrices.ipynb -> Code
+2025-03-12 18:19:17,966 [DEBUG] Moved: video_20240821_122941.mp4 -> Videos
+2025-03-12 18:19:17,973 [DEBUG] Moved: Vishwanath Temple, Banaras Hindu University..Bless your feed with @banarasi_bhaukal Be a Banaras addict and make us your dealer..#varanasi #banaras #varanasidiaries #kolkata #travel #incredibleindia #traveling #.jpg -> Images
+2025-03-12 18:19:17,977 [DEBUG] Moved: VMware-player-full-17.0.0-20800274.exe -> Programs
+2025-03-12 18:19:17,980 [DEBUG] Moved: VP Aadhar_compressed.pdf -> Documents
+2025-03-12 18:19:17,983 [DEBUG] Moved: VP Photo_page-0001.jpg -> Images
+2025-03-12 18:19:17,985 [DEBUG] Moved: VP Signature _page-0001.jpg -> Images
+2025-03-12 18:19:17,989 [DEBUG] Moved: VSCodeUserSetup-x64-1.85.1.exe -> Programs
+2025-03-12 18:19:17,994 [DEBUG] Moved: VSCodeUserSetup-x64-1.90.0.exe -> Programs
+2025-03-12 18:19:17,996 [DEBUG] Moved: WhatsApp Chat with Sona.txt -> Documents
+2025-03-12 18:19:17,999 [DEBUG] Moved: WhatsApp Image 2024-02-24 at 7.26.20 PM.jpeg -> Images
+2025-03-12 18:19:18,001 [DEBUG] Moved: WhatsApp Image 2024-02-24 at 7.26.21 PM (1).jpeg -> Images
+2025-03-12 18:19:18,004 [DEBUG] Moved: WhatsApp Image 2024-02-24 at 7.26.21 PM.jpeg -> Images
+2025-03-12 18:19:18,006 [DEBUG] Moved: WhatsApp Image 2024-02-24 at 7.26.22 PM (1).jpeg -> Images
+2025-03-12 18:19:18,011 [DEBUG] Moved: WhatsApp Image 2024-02-24 at 7.26.22 PM.jpeg -> Images
+2025-03-12 18:19:18,013 [DEBUG] Moved: WhatsApp Image 2024-02-24 at 7.26.23 PM (1).jpeg -> Images
+2025-03-12 18:19:18,013 [DEBUG] Moved: WhatsApp Image 2024-02-24 at 7.26.23 PM.jpeg -> Images
+2025-03-12 18:19:18,017 [DEBUG] Moved: WhatsApp Image 2024-02-24 at 7.26.24 PM (1).jpeg -> Images
+2025-03-12 18:19:18,019 [DEBUG] Moved: WhatsApp Image 2024-02-24 at 7.26.24 PM.jpeg -> Images
+2025-03-12 18:19:18,023 [DEBUG] Moved: WhatsApp Image 2024-03-12 at 12.32.43 PM.jpeg -> Images
+2025-03-12 18:19:18,026 [DEBUG] Moved: WhatsApp Image 2024-05-23 at 11.24.27 AM.jpeg -> Images
+2025-03-12 18:19:18,028 [DEBUG] Moved: WhatsApp Image 2024-08-27 at 11.10.02 AM.jpeg -> Images
+2025-03-12 18:19:18,030 [DEBUG] Moved: WhatsApp Image 2025-03-05 at 2.53.21 PM.jpeg -> Images
+2025-03-12 18:19:18,033 [DEBUG] Moved: WhatsApp Image 2025-03-05 at 9.25.13 PM(1).jpeg -> Images
+2025-03-12 18:19:18,037 [DEBUG] Moved: WhatsApp Image 2025-03-05 at 9.25.13 PM(2).jpeg -> Images
+2025-03-12 18:19:18,040 [DEBUG] Moved: WhatsApp Image 2025-03-05 at 9.25.13 PM.jpeg -> Images
+2025-03-12 18:19:18,042 [DEBUG] Moved: WhatsApp Image 2025-03-05 at 9.25.14 PM(1).jpeg -> Images
+2025-03-12 18:19:18,046 [DEBUG] Moved: WhatsApp Image 2025-03-05 at 9.25.14 PM(2).jpeg -> Images
+2025-03-12 18:19:18,050 [DEBUG] Moved: WhatsApp Image 2025-03-05 at 9.25.14 PM.jpeg -> Images
+2025-03-12 18:19:18,053 [DEBUG] Moved: WhatsApp Image 2025-03-05 at 9.25.15 PM(1).jpeg -> Images
+2025-03-12 18:19:18,057 [DEBUG] Moved: WhatsApp Image 2025-03-05 at 9.25.15 PM(2).jpeg -> Images
+2025-03-12 18:19:18,061 [DEBUG] Moved: WhatsApp Image 2025-03-05 at 9.25.15 PM.jpeg -> Images
+2025-03-12 18:19:18,066 [DEBUG] Moved: WhatsApp Image 2025-03-05 at 9.25.16 PM(1).jpeg -> Images
+2025-03-12 18:19:18,068 [DEBUG] Moved: WhatsApp Image 2025-03-05 at 9.25.16 PM.jpeg -> Images
+2025-03-12 18:19:18,070 [DEBUG] Moved: win32diskimager-1.0.0-install.exe -> Programs
+2025-03-12 18:19:18,074 [DEBUG] Moved: wp6346920-oled-laptop-wallpapers.png -> Images
+2025-03-12 18:19:18,076 [DEBUG] Moved: wp6940844-laptop-4k-wallpapers.jpg -> Images
+2025-03-12 18:19:18,081 [DEBUG] Moved: xlstat.exe -> Programs
+2025-03-12 18:19:18,084 [DEBUG] Moved: yns-plt-eNbYx9FYwdU-unsplash.jpg -> Images
+2025-03-12 18:19:18,202 [INFO] Organization complete. Processed 346/346 files
